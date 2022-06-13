@@ -1,6 +1,9 @@
 # Snap-Game
 Snap game built using C# and .NET framework
 
-To clone and run snap game:
+To clone snap game:
 <br> git clone https://github.com/BaljotSinghGithub/Snap-Game <br/>
 cd snapGame
+
+<br> To run snap game: <br/>
+Please open the following the solution in Visual Studio snapGame.sln
