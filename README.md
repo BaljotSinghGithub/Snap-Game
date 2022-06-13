@@ -5,4 +5,4 @@ To clone snap game:
 <br> git clone https://github.com/BaljotSinghGithub/Snap-Game <br/>
 
 <br> To run snap game: <br/>
-Please open the following the solution in Visual Studio snapGame.sln
+Please open the following the solution in Visual Studio SnapVirtual.sln
